@@ -5,6 +5,6 @@
     <title>Thinky</title>
   </head>
   <body>
-    
+    <p>home of the future</p>
   </body>
 </html>
