@@ -5,6 +5,13 @@
     <title>Thinky</title>
   </head>
   <body>
-    <p>home of the future!</p>
+    <div class="navbar">
+      <ul>
+        <li>boep</li>
+      </ul>
+    </div>
+    <div class="body">
+      <p>Home of the future!</p>
+    </div>
   </body>
 </html>
